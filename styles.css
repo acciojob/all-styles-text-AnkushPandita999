@@ -1,2 +1,19 @@
+ /* Define styles for the "main" class */
+        .main {
+            width: 200px;
+            background-color: purple;
+            border-left: 5px solid green;
+            padding: 10px;
+        }
 
+        /* Define styles for the "heading" class and id */
+        .heading {
+            font-size: 20px;
+            color: white;
+            text-decoration: underline;
+        }
+
+        #heading {
+            /* You can add additional styles specific to the heading id here if needed */
+        }
 /* Your CSS Code here. */
